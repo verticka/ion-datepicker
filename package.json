@@ -39,7 +39,7 @@
     "rxjs": "5.5.11",
     "connect": "^3.6.3",
     "sw-toolbox": "3.6.0",
-    "zone.js": "0.8.26",
+    "zone.js": "~0.8.18",
     "typescript": "~2.6.2"
   },
   "devDependencies": {
